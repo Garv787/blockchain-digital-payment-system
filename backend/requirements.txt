@@ -16,7 +16,7 @@ python-multipart==0.0.20
 # Database (SQLite for dev, Postgres for prod)
 SQLAlchemy==2.0.47
 alembic==1.16.5
-psycopg[binary]==3.2.10
+psycopg2-binary==2.9.10
 
 # HTTP + resilience
 httpx==0.28.1
